@@ -1,0 +1,38 @@
+body{
+    font-family: "Lato",sans-serif;
+    text-align: left 500px;
+    padding: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    
+}
+#equipo{
+    align-content: 10px;
+    background-color: #673ab7;
+    color: #ffffff;
+    padding: 30px;
+}
+
+#entrenador{
+    color: #673ab7;
+    font-weight: bold;
+}
+
+th{
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #673ab7; 
+    border: 2px solid black;
+}
+#jugadores{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+}
+
